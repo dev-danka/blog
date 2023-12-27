@@ -30,23 +30,23 @@ draft: true
 
 [Original](https://switowski.com/blog/how-to-make-a-great-conference-talk/)
 
-Last year, I participated in a workshop organized by the EuroPython conference for beginner speakers where I shared my tips for making good presentations. It was a great idea, and I wish I had access to such a workshop when preparing my first talks.
+El último año participé en un taller organizado por la EuroPython para oradores principiantes donde he compartido algunas sugerencias para hacer buenas charlas/presentaciones/discursos. Esta fue una gran idea, yo hubiese deseado tener este tipo de taller cunado prepare mi primer charla.
 
-I have decided to write this guide to assist my readers who aspire to be conference speakers. I hope it will help you prepare for your first presentation or improve your talks further.
+Decidí preparar esta guía para ayudar a quienes aspiren a ser oradores en convenciones. Espero que esto los prepare para su primera presentacion o que los ayude a mejorar para sus futuras charlas.
 
 > [!NOTE] 
-> This article turned out much longer than I initially thought.
-> You can jump directly to the part that interests you the most:
-> - Benefits of speaking at a conference
-> - Why should you take advice from me?
-> - Debunking some myths
-> - Call for Proposals
-> - Research
-> - Preparation
-> - Slides
-> - Live demos
-> - Rehearsing
-> - Day of the presentation
+> Este artículo resultó ser más largo de lo que había pensado en un comienzo.
+> Pueden ir directo a la sección que más les interese:
+> - Beneficios de dar una chala en una convención
+> - ¿Porque deberías recibir una sugerencia mía?
+> - Derribando algunos mitos
+> - Llamada para las propuestas
+> - Investigación
+> - Preparación
+> - Presentaciones
+> - Demostraciones en vivo
+> - Practicando
+> - El día de la presentación
 > - Q&A
 
 I try to keep my suggestions as open as possible, including things that don't work for me but may work for you. Just because I do something in a specific way doesn't mean everyone else does it too. I will also try to keep my advice brief instead of supporting each with a story from my life.
@@ -55,7 +55,7 @@ Later on, I will write another article focusing on how I make presentations, col
 
 First of all, why would you even want to spend time preparing a talk for free?
 
-## Benefits of speaking at a conference
+## Beneficios de dar una chala en una convención
 - The most obvious reason is that as a speaker, you get a **free ticket** to the conference (this applies to most, but not all, of the conferences). Throughout the years, I probably saved thousands of dollars on conference fees [^1].
 - **Recognition.** The more presentations you give, the more famous you get. Sometimes people will recognize you from a talk, or you will see a blog post where someone calls your presentation interesting, making you very happy.
 - **Building your brand.** Like the above point, the more you speak on a given subject, the more people see you as an expert. This can lead to some exciting opportunities in the future, so don't forget to include a way people can contact you later (add your LinkedIn profile or social media handle on the slides).
@@ -64,8 +64,8 @@ First of all, why would you even want to spend time preparing a talk for free?
 - **You might get invited to other conferences.** As a former speaker, you will be on the radar of smaller conferences that invite speakers to apply for their Call for Proposals. You will also have something to put in the section for "share a link to your previous talk." So the more talks you give, the easier it will be to get accepted in the future. On a few occasions, I was invited to a semi-commercial conference (a conference about Python that was mainly sponsored and organized by a single company) that paid for the flights and hotels. So it was a free, geeky weekend for me. Sadly, after covid, I mostly get invited to online conferences nowadays.
 - Finally, you might genuinely **want to share your knowledge.** I enjoy talking at conferences (the same way I enjoy writing this blog). Every year I choose 2-3 conferences I want to speak at [^3].
 
-## Why should you take advice from me?
-Now, why should you take advice from me?
+## ¿Porque deberías recibir una sugerencia mía?
+Ahora, ¿Porque deberías recibir una sugerencia mía?
 - I have spoken at over 15 major Python conferences around the world (various PyCons in different countries and at EuroPython) and over 20 smaller conferences and meetups. I have been speaking online and offline since 2016.
 - My talks are usually well received. Some have a high view count on YouTube, and when I talk with people, they typically say my presentations were good (although no matter how much I press, it's hard to get negative feedback because people are usually nice).
 - I'm constantly trying to improve my talks. In 2017, I took a course at work on making good presentations, and I'm always on the lookout for how to be a better speaker. Some people are born great speakers. I'm trying to get there eventually.
@@ -76,7 +76,7 @@ And why you might not want to take my advice:
 
 There are many much more experienced speakers who have also shared their insights. I'm linking them at [the end](IR AL FINAL) of this article.
 
-## Debunking some myths
+## Derribando algunos mitos
 If you're still hesitating about whether you should submit a talk, let's debunk some of the most common myths that might be stopping you.
 ### "I'm not an expert!"
 You don't have to be. To give a great talk, you don't have to be an expert, but you should be passionate about the topic. If you are an expert and can present a topic in an approachable way, that's fantastic. But it's also rare. Not every speaker is an expert, and even if they are, not every expert can explain complex topics in a simple way. Quite often, people who are new to something have the most interesting, fresh ideas. They are much better at explaining a topic to beginners because they were beginners themselves not long ago. People who spent 10 years writing machine learning models (in addition to spending four years writing a Ph.D. about machine learning) might skip too many details that are not obvious to someone new to the topic.
@@ -124,7 +124,7 @@ Let me know in the comments if you have other reasons to not give a talk, and I'
 
 Now let's talk about one of the most critical steps that will determine whether you will even have a chance to give your presentation.
 
-## Call for Proposals (CFP)
+## Llamada para las propuestas (CFP)
 If there was one piece of advice I could give you here, it would be "don't neglect it". You shouldn't neglect any part of the whole presentation process, but if your talk isn't accepted, the fact that you can tell the most captivating stories doesn't matter. There won't be a conference willing to hear them.
 
 Too many proposals are poorly written.
@@ -155,7 +155,7 @@ Here are some ways to achieve this:
 
 If you're a more experienced speaker, **don't be afraid to leave your comfort zone**. Proposing a talk is an excellent way to explore a topic in greater depth. A niche topic may have a smaller audience, but it can lead to deeper conversations with those who are genuinely interested in the subject.
 
-## Finding examples of accepted and rejected proposals
+### Finding examples of accepted and rejected proposals
 If you want to see what a good proposal looks like, check out the schedules from previous years. For example, EuroPython keeps websites for all of the previous editions online. This way, you can easily check what proposals were accepted.
 
 It's a bit more tricky to see which proposals get rejected. You can join a program committee for a conference, and you will regularly be involved in accepting and rejecting talks. You will even get guidance from other members on what to look for in a proposal.
@@ -168,7 +168,7 @@ In the end, there is always some luck involved in getting your talk accepted. Yo
 
 Don't get discouraged. Try submitting your talk to a different conference or a local meetup to gain more experience, improve your proposal, and have a portfolio of "previous talks" you can present next time.
 
-## Coming up with ideas
+### Coming up with ideas
 The "easiest" (in quotes, because there is nothing easy in preparing a good talk) way to come up with an idea is to present something you used at work because:
 1. You have used this tool/framework/program/idea before, so you already know it.
 2. You will do more research, but that knowledge will be useful for your work in the future.
@@ -189,7 +189,7 @@ Another surprisingly effective way is to ask the AI to help you brainstorm ideas
 
 You can also ask your colleagues at work. A random question at the water cooler ("What talks would you like to see at a Python conference?") can also help you generate ideas.
 
-## Research
+## Investigación
 Now that you've submitted your proposal, you can either wait for the results or start preliminary research. I strongly recommend the latter, but maybe not super intensively. Just keep in mind that you might be preparing this presentation in a couple of weeks.
 
 You will be surprised how many ideas and topics will come to your mind! You will suddenly find that many random articles are related to your talk. Save links to those articles. If you think of something that could be included, write that down or add a "todo" to research it further.
@@ -229,7 +229,7 @@ The research phase doesn't really end until you have the slides ready, although 
 
 But in general, I don't go beyond collecting all those random notes, links, and ideas until I hear back from the conference organizers.
 
-## Preparation
+## Preparación
 "Your proposal has been accepted" - that's the email you have been impatiently waiting for for weeks.
 
 Congratulations! Now the real work starts.
@@ -286,7 +286,7 @@ Don't let anyone tell you that a script, bullet points, or not using speaker not
 
 Check out the story of Tim Urban's [TED Talk](https://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html), where he talks more about the "Exactness of planning" spectrum (a.k.a "wing it vs. script it").
 
-## Slides
+## Presentaciones
 The first rule of making slides is that **they are supposed to support your presentation, not replace it.** As an extension to this rule, if you can give your presentation without your slides, that's fantastic. If not, don't worry too much. I doubt many people can (I can't). However, aim to rely on your slides as little as possible. If the projector breaks, you lose your presentation, or even if someone is sitting too far from the screen, people should be able to understand your presentation and take away something from it without seeing the slides.
 
 Having said that, it doesn't mean that slides should be a neglected afterthought. You should still do your best to make the slides as helpful as possible to your audience. Here are some ideas on how to do it:
@@ -315,7 +315,7 @@ Having said that, it doesn't mean that slides should be a neglected afterthought
 
 And maybe you want to spice things up with a live coding session?
 
-## Live demos
+## Demostraciones en vivo
 Live demos are hard.
 
 Take this section with a grain of salt - I almost never do live coding (and I have good reasons for this, as you will shortly see). But I have seen people like James Powell do absolutely stunning talks that consist only of live coding.
@@ -340,7 +340,7 @@ Here are a few more closing tips for demos:
 - Your cool color theme might be completely unreadable with bad lighting. Consider having a simple, light, and easy-to-see theme for the demo.
 - Many demos never reach the end. If your demo fails because of some technical issue, don't let this stress you out for the rest of the talk. Explain what you tried to show and move on. Don't forget to have a backup plan like a video or finished code, as I suggested before. Your audience is used to problems with live coding. If you get over a failed demo, so will they.
 
-## Rehearsing
+## Practicando
 Congratulations, you have prepared your presentation, completed the slide deck, and now it is time for practice. Below are some tips to help you get better:
 - Rehearse. A lot. Even if you have a script in your speaker notes, you want to memorize it as much as possible. Otherwise, you will need to read from your laptop throughout your presentation, which looks bad.
 - While rehearsing, take note of your time at key moments in your presentation, such as the 10th, 20th, and 25th minute of your 30-minute talk. This information will let you know if you are on track or need to speed up or slow down. You don't want to rush through the last slides because you lost track of time. Similarly, if you fall behind and need to speed up in the middle of your talk, you will know how much you need to accelerate. Perhaps you can skip a minor topic to get back on track? You don't want to fly through half of your slides only to accidentally finish too early.
@@ -350,7 +350,7 @@ Congratulations, you have prepared your presentation, completed the slide deck, 
 - Record yourself or ask someone for feedback to see how you speak. Do you, uhmm, use, uhmm, like a lot of, uhmm, filler words and, uhmm, maybe it would be better to, uhmm, stop doing that? Do you speak loudly and clearly enough? Or do you mumble, and not everything can be understood?
 - Focus on perfecting the first 5-10 minutes (the introduction of the problem) and the closing part of your talk. These are the most critical moments. In the beginning, you need to grab your audience's attention, and how you speak at the end is how people will remember your talk. No one cares if, in the middle, you looked at your notes a bit more often.
 
-## Day of the presentation
+## El día de la presentación
 - Avoid drinking too much alcohol the day before the presentation, and ensure you get enough sleep. You will already be under enough stress, and adding a hangover and sleepless night will only make it more difficult for you.
 - Try to have a good breakfast. As you get closer to your talk, you may become more stressed and might not feel like eating anything. For a long time, I couldn't eat anything within hours before my talk, so it was essential for me to get a good breakfast.
 - Consider what you wear. Black clothes on a dark background might look odd in the video. Avoid wearing grey t-shirts or anything that will become a disaster when you start sweating on stage. Check out this article for more recommendations on what not to wear.
@@ -359,7 +359,7 @@ Congratulations, you have prepared your presentation, completed the slide deck, 
 - Be on time. Do you want to attend another talk in a different room just before yours? You can always watch it later. You don't want to rush to your room and be late for your own presentation. I usually go to the room where I speak one talk earlier, so I can start setting up as soon as the previous speaker finishes.
 - Introduce yourself to the session chair once the previous talk ends. They will explain everything, set up your computer, and maybe ask how you want to be announced to the audience.
 
-## Packing checklist 
+### Packing checklist 
 Don't forget to pack the following items (if you feel that you need them):
 - Your laptop (this may seem obvious, but it's a stressful day, so I'm mentioning it just in case).
 - Charger (just in case, although new laptops can easily last a full day on battery).
@@ -425,7 +425,7 @@ No. People have a life too. Unless I get paid to make a presentation (and I don'
 
 But as a speaker, don't be discouraged from submitting your talk to multiple conferences. Of course, when asked, disclose that it was already presented or will be presented at other places. However, most conferences understand that you're pouring dozens of hours of your personal time into making this talk. As long as it fits the theme of the conference/track, they are fine with the fact that they are not the only ones who will have it on their YouTube channel.
 
-### Additional reading
+## Additional reading
 Here are other great blog posts that helped me write this one (in no particular order):
 
 - Eric Snow published the [Advice For PyCon Speakers](https://ref.readthedocs.io/en/latest/advice_for_pycon_speakers/) website with tons of tips for speakers. Although it may be old, it's still as relevant today as it was in 2012. At the bottom, it includes links to advice from other prominent speakers.

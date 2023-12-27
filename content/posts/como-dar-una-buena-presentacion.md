@@ -34,7 +34,8 @@ Last year, I participated in a workshop organized by the EuroPython conference f
 
 I have decided to write this guide to assist my readers who aspire to be conference speakers. I hope it will help you prepare for your first presentation or improve your talks further.
 
-> [!TIP] This article turned out much longer than I initially thought.
+> [!NOTE] 
+> This article turned out much longer than I initially thought.
 > You can jump directly to the part that interests you the most:
 > - Benefits of speaking at a conference
 > - Why should you take advice from me?
@@ -117,7 +118,7 @@ You can always ask the conference organizers or the chair of your session (the p
 
 And if you decide to go for the Q&A session and get a tricky question, saying, "I don't know," is perfectly fine. No one expects you to know everything. I will cover more tactics on how to survive the Q&A session later.
 
----------------------------------------------------------------------------
+-----------------------------------------------
 
 Let me know in the comments if you have other reasons to not give a talk, and I'm happy to dispel those for you.
 
@@ -132,7 +133,8 @@ This is something I noticed when reviewing proposals as part of the community vo
 
 Yes, I know that you have a great story. It's interesting. It has important lessons learned and some beautiful code examples that will make the Python world a better place. But you need to convince a group of people with varying levels of Python knowledge, different backgrounds, and interests that your talk is interesting. That it's more interesting than the 400 other talks waiting to take your place in the schedule.
 
-> [!NOTE] Community voting 
+> [!NOTE] 
+> **Community voting**
 > Although I'm not part of any official program committee, I try to participate in the community voting for various conferences whenever I can. During this time, people who have already bought a ticket and participants from the previous years can vote on which talks they would like to see this time.
 > 
 > I review proposals during community voting like I would screen a CV. I spend around 10 seconds on most of them, quickly skimming the title and abstract. If it looks interesting, I read more. Perhaps program board members are more thorough, but maybe they aren't? So just like with your CV, you need to make sure you can grab my attention in those 10 seconds.
@@ -160,7 +162,7 @@ It's a bit more tricky to see which proposals get rejected. You can join a progr
 
 If you want something more lightweight than joining a committee, try the community voting that conferences like EuroPython, PyCon Italia, or PyOhio organize. This is an excellent opportunity to see hundreds of submissions and get a feel for good and bad proposals. You will see why I stressed the "don't neglect the proposal" advice so much.
 
-------------------------------------------------------------------------------------
+---
 
 In the end, there is always some luck involved in getting your talk accepted. You can increase your chances with the above tips, but none of them will guarantee success. Maybe someone with a similar topic wrote the proposal slightly differently, and their way was more convincing to the program committee. Maybe your talk doesn't fit into any tracks. Perhaps you're just unlucky - the biggest Python conferences get hundreds of proposals for only dozens of slots.
 
